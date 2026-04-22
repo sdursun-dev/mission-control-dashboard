@@ -1,0 +1,83 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-04-21T15:13:25.320685",
+  "tasks": [
+    {
+      "id": "task_20260421_151056_2d550c78",
+      "title": "Sistem güvenliği taraması yap",
+      "description": "Task added via orchestrate.py",
+      "priority": "medium",
+      "status": "backlog",
+      "model": "openrouter/nvidia/nemotron-3-super-120b-a12b:free",
+      "createdAt": "2026-04-21T15:10:56.321029",
+      "updatedAt": "2026-04-21T15:10:56.321031",
+      "assignedAgent": null,
+      "result": null,
+      "logs": [],
+      "subtasks": []
+    },
+    {
+      "id": "task_20260421_151110_a0bed726",
+      "title": "Sistem güvenliği taraması yap",
+      "description": "Task added via orchestrate.py",
+      "priority": "medium",
+      "status": "backlog",
+      "model": "openrouter/nvidia/nemotron-3-super-120b-a12b:free",
+      "createdAt": "2026-04-21T15:11:10.047724",
+      "updatedAt": "2026-04-21T15:11:10.047726",
+      "assignedAgent": null,
+      "result": null,
+      "logs": [],
+      "subtasks": []
+    },
+    {
+      "id": "task_20260421_151123_abce9f1c",
+      "title": "Sistem güvenliği taraması yap",
+      "description": "Task added via orchestrate.py",
+      "priority": "medium",
+      "status": "backlog",
+      "model": "openrouter/nvidia/nemotron-3-super-120b-a12b:free",
+      "createdAt": "2026-04-21T15:11:23.197504",
+      "updatedAt": "2026-04-21T15:11:23.197506",
+      "assignedAgent": null,
+      "result": null,
+      "logs": [],
+      "subtasks": []
+    },
+    {
+      "id": "task_20260421_151247_65787f63",
+      "title": "Sistem güvenliği taraması yap",
+      "description": "Task added via orchestrate.py",
+      "priority": "medium",
+      "status": "in_progress",
+      "model": "openrouter/nvidia/nemotron-3-super-120b-a12b:free",
+      "createdAt": "2026-04-21T15:12:47.788404",
+      "updatedAt": "2026-04-21T15:13:06.406321",
+      "assignedAgent": "orchestrator_5563",
+      "result": null,
+      "logs": [],
+      "subtasks": []
+    },
+    {
+      "id": "task_20260421_151325_e66d2455",
+      "title": "Web'dan hava durumu bilgisi topla",
+      "description": "Task added via orchestrate.py",
+      "priority": "medium",
+      "status": "backlog",
+      "model": "openrouter/nvidia/nemotron-3-super-120b-a12b:free",
+      "createdAt": "2026-04-21T15:13:25.320681",
+      "updatedAt": "2026-04-21T15:13:25.320683",
+      "assignedAgent": null,
+      "result": null,
+      "logs": [],
+      "subtasks": []
+    }
+  ],
+  "agents": {},
+  "statistics": {
+    "totalTasks": 5,
+    "completedTasks": 0,
+    "failedTasks": 0,
+    "activeAgents": 1
+  }
+}
