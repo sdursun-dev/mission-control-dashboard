@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-04-21T15:13:25.320685",
+  "lastUpdated": "2026-04-22T18:15:00.000000",
   "tasks": [
     {
       "id": "task_20260421_151056_2d550c78",
@@ -71,13 +71,27 @@
       "result": null,
       "logs": [],
       "subtasks": []
+    },
+    {
+      "id": "task_20260422_181500_a1b2c3d4",
+      "title": "Basit bir web sayfası oluşturun ki şu anki zamanı gösterilsin",
+      "description": "HTML ve JavaScript kullanarak güncel zamanı saniyede bir güncelleyen bir sayfa oluşturun.",
+      "priority": "high",
+      "status": "backlog",
+      "model": "nim/minimaxai/minimax-m2.7",
+      "createdAt": "2026-04-22T18:15:00.000000",
+      "updatedAt": "2026-04-22T18:15:00.000000",
+      "assignedAgent": null,
+      "result": null,
+      "logs": [],
+      "subtasks": []
     }
   ],
   "agents": {},
   "statistics": {
-    "totalTasks": 5,
+    "totalTasks": 6,
     "completedTasks": 0,
     "failedTasks": 0,
-    "activeAgents": 1
+    "activeAgents": 0
   }
 }
